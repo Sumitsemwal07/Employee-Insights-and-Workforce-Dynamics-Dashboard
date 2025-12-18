@@ -1,2 +1,34 @@
 # Employee Insights and Workforce Dynamics Dashboard
 An interactive HR analytics dashboard built in Microsoft Excel to analyze workforce composition, employee performance, engagement, workload, and attrition trends using simulated HR data.
+
+## Objective
+To demonstrate a real-world HR analytics workflow — from raw data cleaning to insight-driven dashboarding — using Excel, Power Query, and Power Pivot.
+
+## Tools & Technologies
+- Microsoft Excel
+- Power Query (data cleaning & transformation)  
+- Power Pivot & DAX (calculations and KPIs)
+- Pivot Tables & Slicers 
+
+## Dataset
+- Simulated HR dataset (2008–2024)
+- Includes employee demographics, department, role, performance, engagement, workload, overtime, and attrition status
+
+## Dashboard Highlights
+- Workforce distribution by department  
+- Employee performance distribution  
+- Average performance score by department  
+- Engagement vs weekly work hours analysis  
+- Attrition rate analysis by overtime and engagement  
+
+## Key KPIs
+- Total Employees  
+- Average Salary & Performance Score
+- Average Engagement Score & Weekly Work Hours  
+- Cumulative Attrition Rate  
+
+## Workflow Summary
+Raw data → Power Query cleaning → Power Pivot modeling → Pivot-based dashboard 
+
+## Notes
+- Data is simulated and used for learning and portfolio demonstration.
