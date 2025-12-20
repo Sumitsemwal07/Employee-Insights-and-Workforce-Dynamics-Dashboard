@@ -32,3 +32,5 @@ Raw data → Power Query cleaning → Power Pivot modeling → Pivot-based dashb
 
 ## Notes
 - Data is simulated and used for learning and portfolio demonstration.
+- Some expected linear patterns (e.g., Attrition rate% by engagement level, Weekly work hours by engagement level) are not consistently observed, which reflects real-world data limitations and the influence of untracked factors. Insights should be interpreted as exploratory, not causal.
+
