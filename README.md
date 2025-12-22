@@ -1,6 +1,7 @@
-<img width="1858" height="832" alt="Dashboard-overview" src="https://github.com/user-attachments/assets/c789921a-14e7-424f-a379-ffacdfb203d3" />
 # Employee Insights and Workforce Dynamics Dashboard
 An interactive HR analytics dashboard built in Microsoft Excel to analyze workforce composition, employee performance, engagement, workload, and attrition trends using simulated HR data.
+
+<img width="1858" height="832" alt="Dashboard-overview" src="https://github.com/user-attachments/assets/c789921a-14e7-424f-a379-ffacdfb203d3" />
 
 ## Objective
 To demonstrate a real-world HR analytics workflow — from raw data cleaning to insight-driven dashboarding — using Excel, Power Query, and Power Pivot.
