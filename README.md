@@ -10,11 +10,7 @@ To demonstrate a real-world HR analytics workflow — from raw data cleaning to 
 - Microsoft Excel
 - Power Query (data cleaning & transformation)  
 - Power Pivot & DAX (calculations and KPIs)
-- Data Modeling 
 - Pivot Tables & Slicers 
-- KPI Development
-- Data Visualization
-- Dashboard Design
 
 ## Dataset
 - Simulated HR dataset (2008–2024)
