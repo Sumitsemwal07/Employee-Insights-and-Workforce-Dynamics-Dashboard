@@ -12,9 +12,7 @@ To demonstrate a real-world HR analytics workflow — from raw data cleaning to 
 - Power Pivot & DAX (calculations and KPIs)
 - Data Modeling 
 - Pivot Tables & Slicers 
-- HR Analytics
 - KPI Development
-- Attrition Analysis
 - Data Visualization
 - Dashboard Design
 
