@@ -16,7 +16,7 @@ To demonstrate a real-world HR analytics workflow — from raw data cleaning to 
 - Simulated HR dataset (2008–2024)
 - Includes employee demographics, department, role, performance, engagement, workload, overtime, and attrition status
 
-## Dashboard Highlights
+## Key Insights Covered 
 - Workforce distribution by department  
 - Employee performance distribution  
 - Average performance score by department  
